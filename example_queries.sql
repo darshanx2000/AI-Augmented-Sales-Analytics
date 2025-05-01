@@ -1,0 +1,1 @@
+-- Write SQL queries for sales data extraction, joins, and KPIs here.
